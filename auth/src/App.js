@@ -5,7 +5,9 @@ import LogoutButton from './components/LogoutButton';
 function App() {
   return (
     <>
+    
     <LoginButton/>
+
     <LogoutButton/>
       
     </>
